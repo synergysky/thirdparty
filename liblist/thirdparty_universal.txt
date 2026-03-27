@@ -1,5 +1,5 @@
 
-rnd/connect_universal, distro: rhel 9.6, tag: 33.07.133
+rnd/connect_universal, distro: rhel 9.6, tag: 33.07.136
 
 AspNetCore.HealthChecks.UI.Client [] (9.0.0) (dotnet)
 AspNetCore.HealthChecks.UI.Core [] (9.0.0) (dotnet)
@@ -86,7 +86,7 @@ chardet [] (4.0.0) (python)
 coreutils [] (8.32-39.el9) (os)
 cracklib [cracklib-dicts, cracklib] (2.9.6-27.el9) (os)
 crypto [crypto-policies-scripts, crypto-policies] (20250128-1.git5269e22.el9) (os)
-cryptography [] (46.0.5) (python)
+cryptography [] (46.0.6) (python)
 curl [] (7.76.1-35.el9_7.3) (os)
 cyrus [] (2.1.27-21.el9) (os)
 dbus [dbus-python, dbus-libs, dbus-common, dbus-broker, dbus] (1.2.18, 1:1.12.20-8.el9, 28-7.el9) (python, os)
