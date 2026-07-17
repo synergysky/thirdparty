@@ -1,5 +1,5 @@
 
-rnd/synergysky_bubbagateway, distro: rhel 9.7, tag: 33.15.507
+rnd/synergysky_bubbagateway, distro: rhel 9.7, tag: 33.15.515
 
 invalid_main [] (UNKNOWN) (js)
 false_main [] (UNKNOWN) (js)
@@ -78,7 +78,7 @@ vulkan [] (1.4.328.1-1.el9) (os)
 sysprof [] (3.40.1-3.el9) (os)
 synergysky_gstreamer [] (1-1.el9) (os)
 synergysky_bubbasip [] (1.1.1-1.el9) (os)
-synergysky_bubbamedia [] (33.15.507-1.el9) (os)
+synergysky_bubbamedia [] (33.15.515-1.el9) (os)
 spandsp [spandsp-devel, spandsp] (0.0.6-13.el9) (os)
 soci [soci-postgresql, soci] (4.0.3-1.el9) (os)
 rpmdevtools [] (9.5-1.el9) (os)
