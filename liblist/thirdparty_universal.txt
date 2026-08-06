@@ -1,5 +1,5 @@
 
-rnd/connect_universal, distro: rhel 9.8, tag: 33.16.546
+rnd/connect_universal, distro: rhel 9.8, tag: 33.16.553
 
 GeoCoordinate.NetStandard1 [] (1.0.1) (dotnet)
 subscription [subscription-manager, subscription-manager-rhsm-certificates] (1.29.50, 20220623-1.el9, 1.29.50-1.el9) (python, os)
@@ -40,11 +40,11 @@ python3 [python3-gobject-base-noarch, python3-urllib3, python3-systemd, python3-
 openssh [openssh-clients, openssh] (9.9p1-9.el9_8) (os)
 libdb [libdb-devel, libdb] (5.3.28-57.el9_6) (os)
 github.com/containers/podman/cmd/podman [] (UNKNOWN) (go)
+packaging [] (26.3) (python)
 cryptography [] (50.0.0) (python)
 dnf [dnf-plugins-core, dnf-data, dnf] (4.3.0-26.el9, 4.14.0-34.el9_8) (os)
 typing [] (4.16.0) (python)
 psycopg2 [] (2.9.12) (python)
-packaging [] (26.2) (python)
 jose [] (5.1.0) (dotnet)
 System.Security.Cryptography.Xml [] (10.0.6) (dotnet)
 System.Security.Cryptography.Pkcs [] (10.0.6) (dotnet)
