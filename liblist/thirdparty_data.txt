@@ -1,5 +1,5 @@
 
-rnd/data_container, distro: rhel 9.8, tag: 33.16.569
+rnd/data_container, distro: rhel 9.8, tag: 33.17.575
 
 GeoCoordinate.NetStandard1 [] (1.0.1) (dotnet)
 subscription [subscription-manager, subscription-manager-rhsm-certificates] (1.29.50, 20220623-1.el9, 1.29.50-1.el9) (python, os)
@@ -39,8 +39,8 @@ QRCoder [] (1.6.0) (dotnet)
 Polly.Core [] (8.5.0) (dotnet)
 Polly [] (8.5.0) (dotnet)
 OpenTelemetry [OpenTelemetry.Instrumentation.Http, OpenTelemetry.Instrumentation.AspNetCore, OpenTelemetry.Extensions.Hosting, OpenTelemetry.Exporter.OpenTelemetryProtocol, OpenTelemetry.Exporter.Console, OpenTelemetry.Api.ProviderBuilderExtensions, OpenTelemetry.Api, OpenTelemetry] (1.11.1, 1.15.3) (dotnet)
-Npgsql.OpenTelemetry [] (9.0.3) (dotnet)
-Npgsql [] (9.0.3) (dotnet)
+Npgsql.OpenTelemetry [] (10.0.3) (dotnet)
+Npgsql [] (10.0.3) (dotnet)
 Newtonsoft.Json [] (13.0.3) (dotnet)
 MiniProfiler.Shared [] (4.5.4) (dotnet)
 MiniProfiler.Providers.PostgreSql [] (4.5.4) (dotnet)
@@ -78,7 +78,7 @@ readline [] (8.1-4.el9) (os)
 publicsuffix [] (20210518-3.el9) (os)
 psmisc [] (23.4-3.el9) (os)
 procps [] (3.3.17-14.el9) (os)
-postgresql16 [postgresql16-server, postgresql16-libs, postgresql16-contrib, postgresql16] (16.14-2PGDG.rhel9.8) (os)
+postgresql16 [postgresql16-server, postgresql16-libs, postgresql16-contrib, postgresql16] (16.15-1PGDG.rhel9.8) (os)
 popt [] (1.18-8.el9) (os)
 pcre2 [pcre2-syntax, pcre2] (10.40-6.el9) (os)
 pcre [] (8.44-4.el9) (os)
