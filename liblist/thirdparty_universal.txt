@@ -1,5 +1,5 @@
 
-rnd/connect_universal, distro: rhel 9.8, tag: 33.16.570
+rnd/connect_universal, distro: rhel 9.8, tag: 33.17.577
 
 GeoCoordinate.NetStandard1 [] (1.0.1) (dotnet)
 opensips [opensips-repo-releases, opensips-tlsmgm-module, opensips-tls-wolfssl-module, opensips-tls-openssl-module, opensips-tls-module, opensips-restclient-module, opensips-regex-module, opensips-json-module, opensips] (3.6-7.el9, 3.6.7-1.el9) (os)
@@ -73,8 +73,8 @@ QRCoder [] (1.6.0) (dotnet)
 Polly.Core [] (8.5.0) (dotnet)
 Polly [] (8.5.0) (dotnet)
 OpenTelemetry [OpenTelemetry.Instrumentation.Http, OpenTelemetry.Instrumentation.AspNetCore, OpenTelemetry.Extensions.Hosting, OpenTelemetry.Exporter.OpenTelemetryProtocol, OpenTelemetry.Exporter.Console, OpenTelemetry.Api.ProviderBuilderExtensions, OpenTelemetry.Api, OpenTelemetry] (1.11.1, 1.15.3) (dotnet)
-Npgsql.OpenTelemetry [] (9.0.3) (dotnet)
-Npgsql [] (9.0.3) (dotnet)
+Npgsql.OpenTelemetry [] (10.0.3) (dotnet)
+Npgsql [] (10.0.3) (dotnet)
 Newtonsoft.Json [] (13.0.3) (dotnet)
 Moq [] (4.20.72) (dotnet)
 MiniProfiler.Shared [] (4.5.4) (dotnet)
