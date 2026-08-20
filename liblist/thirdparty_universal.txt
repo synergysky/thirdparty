@@ -1,5 +1,5 @@
 
-rnd/connect_universal, distro: rhel 9.8, tag: 33.17.584
+rnd/connect_universal, distro: rhel 9.8, tag: 33.17.586
 
 GeoCoordinate.NetStandard1 [] (1.0.1) (dotnet)
 opensips [opensips-repo-releases, opensips-tlsmgm-module, opensips-tls-wolfssl-module, opensips-tls-openssl-module, opensips-tls-module, opensips-restclient-module, opensips-regex-module, opensips-json-module, opensips] (3.6-7.el9, 3.6.7-1.el9) (os)
