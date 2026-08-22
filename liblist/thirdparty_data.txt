@@ -1,5 +1,5 @@
 
-rnd/data_container, distro: rhel 9.8, tag: 33.17.587
+rnd/data_container, distro: rhel 9.8, tag: 33.18.598
 
 GeoCoordinate.NetStandard1 [] (1.0.1) (dotnet)
 subscription [subscription-manager, subscription-manager-rhsm-certificates] (1.29.50, 20220623-1.el9, 1.29.50-1.el9) (python, os)
@@ -17,8 +17,8 @@ pgdg [] (42.0-66.rhel9PGDG) (os)
 erlang [] (27.3.4.3-1.el9) (os)
 dnf [dnf-plugins-core, dnf-data, dnf] (4.3.0-26.el9, 4.14.0-34.el9_8) (os)
 jose [] (5.1.0) (dotnet)
-System.Security.Cryptography.Xml [] (10.0.6) (dotnet)
-System.Security.Cryptography.Pkcs [] (10.0.6) (dotnet)
+System.Security.Cryptography.Xml [] (10.0.10) (dotnet)
+System.Security.Cryptography.Pkcs [] (10.0.10) (dotnet)
 System.Memory.Data [] (6.0.0) (dotnet)
 System.Management [] (7.0.2) (dotnet)
 System.IdentityModel.Tokens.Jwt [] (8.7.0) (dotnet)
