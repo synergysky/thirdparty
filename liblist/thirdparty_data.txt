@@ -1,5 +1,5 @@
 
-rnd/data_container, distro: rhel 9.8, tag: 34.01.107
+rnd/data_container, distro: rhel 9.8, tag: 34.01.112
 
 GeoCoordinate.NetStandard1 [] (1.0.1) (dotnet)
 rdfind [] (1.4.1-7.el9) (os)
@@ -185,7 +185,7 @@ usermode [] (1.114-7.el9) (os)
 urllib3 [] (1.26.5) (python)
 tzdata [] (2026c-1.el9_8) (os)
 tpm2 [] (3.2.3-1.el9) (os)
-systemd [systemd-rpm-macros, systemd-python, systemd-pam, systemd-libs, systemd] (252-67.el9_8.4, 234) (os, python)
+systemd [systemd-rpm-macros, systemd-python, systemd-pam, systemd-libs, systemd] (252-67.el9_8.6, 234) (os, python)
 sqlite [] (3.34.1-11.el9_8) (os)
 six [] (1.15.0) (python)
 shadow [] (2:4.9-16.el9) (os)
