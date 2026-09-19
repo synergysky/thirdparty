@@ -1,5 +1,5 @@
 
-rnd/data_container, distro: rhel 9.8, tag: 34.01.115
+rnd/data_container, distro: rhel 9.8, tag: 34.01.118
 
 GeoCoordinate.NetStandard1 [] (1.0.1) (dotnet)
 rdfind [] (1.4.1-7.el9) (os)
@@ -254,7 +254,7 @@ libgcrypt [] (1.10.0-13.el9_8) (os)
 libgcc [] (11.5.0-14.el9) (os)
 libffi [] (3.4.2-8.el9) (os)
 libfdisk [] (2.37.4-25.el9) (os)
-libevent [] (2.1.12-8.el9_4) (os)
+libevent [] (2.1.13-1.el9_8) (os)
 libeconf [] (0.4.1-7.el9_8) (os)
 libdnf [libdnf-plugin-subscription-manager, libdnf] (1.29.50-1.el9, 0.69.0-18.el9) (os)
 libdb [] (5.3.28-57.el9_6) (os)
