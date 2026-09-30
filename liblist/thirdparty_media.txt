@@ -1,5 +1,5 @@
 
-rnd/synergysky_bubbagateway, distro: rhel 9.8, tag: 34.02.158
+rnd/synergysky_bubbagateway, distro: rhel 9.8, tag: 34.02.164
 
 libijs [] (0.35-15.el9) (os)
 libgs [] (9.54.0-19.el9_6) (os)
@@ -76,7 +76,7 @@ idna [] (3.20, 2.10) (python)
 ffmpeg [] (61.7.100, 61.19.101) (os)
 semver [] (7.7.4, 6.3.1) (js)
 https [] (7.0.6, 5.0.1) (js)
-http [http-proxy-agent, http-errors, http-cache-semantics, http] (7.0.2, 5.0.0, 2.0.1, 4.2.0, 0.0.1-security) (js)
+http [http-proxy-agent, http-errors, http-cache-semantics] (7.0.2, 5.0.0, 2.0.1, 4.2.0) (js)
 zope [] (8.6) (python)
 unittest [] (4.0.0) (python)
 pyproject [] (0.12.1) (python)
@@ -953,4 +953,4 @@ pysocks [] (1.7.1) (python)
 @isaacs/string-locale-compare [] (1.1.0) (js)
 @isaacs/fs-minipass [] (4.0.1) (js)
 
-Total 3rd party found: 951 (compressed down from 2225 lines)
+Total 3rd party found: 951 (compressed down from 2222 lines)
