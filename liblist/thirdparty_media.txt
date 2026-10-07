@@ -1,5 +1,5 @@
 
-rnd/synergysky_bubbagateway, distro: rhel 9.8, tag: 34.02.182
+rnd/synergysky_bubbagateway, distro: rhel 9.8, tag: 34.02.189
 
 libijs [] (0.35-15.el9) (os)
 jbig2dec [] (0.19-7.el9) (os)
