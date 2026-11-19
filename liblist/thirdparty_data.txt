@@ -1,5 +1,5 @@
 
-rnd/data_container, distro: rhel 9.9, tag: 34.05.334
+rnd/data_container, distro: rhel 9.9, tag: 34.06.339
 
 GeoCoordinate.NetStandard1 [] (1.0.1) (dotnet)
 subscription [subscription-manager, subscription-manager-rhsm-certificates] (1.29.55, 20220623-1.el9, 1.29.55-1.el9) (python, os)
@@ -74,7 +74,7 @@ readline [] (8.1-4.el9) (os)
 publicsuffix [] (20210518-3.el9) (os)
 psmisc [] (23.4-3.el9) (os)
 procps [] (3.3.17-15.el9) (os)
-postgresql16 [postgresql16-server, postgresql16-libs, postgresql16-contrib, postgresql16] (16.16-1PGDG.rhel9.8) (os)
+postgresql16 [postgresql16-server, postgresql16-libs, postgresql16-contrib, postgresql16] (16.16-1PGDG.rhel9.9) (os)
 popt [] (1.18-8.el9) (os)
 pcre2 [pcre2-syntax, pcre2] (10.40-7.el9_8) (os)
 pcre [] (8.44-4.el9) (os)
