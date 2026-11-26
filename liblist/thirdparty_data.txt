@@ -1,5 +1,5 @@
 
-rnd/data_container, distro: rhel 9.9, tag: 34.06.371
+rnd/data_container, distro: rhel 9.9, tag: 34.06.374
 
 GeoCoordinate.NetStandard1 [] (1.0.1) (dotnet)
 subscription [subscription-manager, subscription-manager-rhsm-certificates] (1.29.55, 20220623-1.el9, 1.29.55-1.el9) (python, os)
