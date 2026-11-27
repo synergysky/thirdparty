@@ -1,5 +1,5 @@
 
-rnd/connect_universal, distro: rhel 9.9, tag: 34.06.374
+rnd/connect_universal, distro: rhel 9.9, tag: 34.06.379
 
 GeoCoordinate.NetStandard1 [] (1.0.1) (dotnet)
 ansible [ansible-core, ansible] (2.22.0, 15.0.0) (python)
